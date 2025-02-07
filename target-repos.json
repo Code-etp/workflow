@@ -1,0 +1,24 @@
+{
+    "repositories": [
+      {
+        "name": "Code-etp/ansible-setup",
+        "workflow": "deploy.yml",
+        "branch": "main"
+      },
+      {
+        "name": "Code-etp/studynow",
+        "workflow": "deploy.yml",
+        "branch": "ft-workflow"
+      },
+      {
+        "name": "Code-etp/studynow-be",
+        "workflow": "deploy.yml",
+        "branch": "main"
+      },
+      {
+        "name": "Code-etp/studynow-fe",
+        "workflow": "deploy.yml",
+        "branch": "main"
+      }
+    ]
+  }
