@@ -1,5 +1,4 @@
 # Format: repository_name,workflow_file,branch
+Code-etp/studynow,deploy.yml,main
 Code-etp/ansible-setup,deploy.yml,main
-Code-etp/studynow,deploy.yml,ft-workflow
-Code-etp/studynow-be,deploy.yml,main
-Code-etp/studynow-fe,deploy.yml,main
+Code-etp/ansible-configuration-for-backend-fast-api,deploy.yml,main
